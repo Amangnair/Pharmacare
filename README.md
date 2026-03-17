@@ -1,15 +1,10 @@
-# Pharmacy Manegement System
+# Pharmacare
+
+Pharmacare is a comprehensive pharmacy management system designed to streamline operations and enhance efficiency within pharmaceutical establishments. Leveraging the power of the MEAN stack (MongoDB, Express.js, Angular, Node.js), Pharmacare offers a robust platform for managing inventory, sales, prescriptions, and customer interactions. The system provides functionalities such as real-time inventory tracking, automated prescription processing, sales analytics, and customer management tools. Pharmacare aims to modernize and optimize pharmacy operations, ultimately improving customer service and overall business performance. With its user-friendly interface and scalable architecture, Pharmacare empowers pharmacies to adapt to evolving industry needs and deliver superior pharmaceutical services.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.6.
 
-Updates and bug fixes are done daily :100:.
-
-Star :star:  the repo to help the developers :innocent:
-
-
 ## 🦄 Product Features and Screen Shots
-
-
 
 <table>
   <tr>
